@@ -10,7 +10,7 @@ labels:
   - ICS314
 ---
 
-<img class="fit-picture" src="../images/software engineering.jpg">
+<img src="../images/software engineering.jpg">
 
 Although I use software applications or websites a lot, I am curious about how the production process is and who is running it, and I wanted to try it. The best way to learn how to design a program is to create a service instead of learning a language in depth. For the past two years, I have used what I learned in college, made some simple video games, or programs that I can use alone. But I have never produced anything that other users can use. I had some research about how I can make that software.
 HTML, CSS, and JavaScript are the main reasons for web page-making, and PHP is needed to open the server. Node.js, express.js, etc. I was able to find many keywords in developing JavaScript projects. There are many ways to create such a project, and I also want to experience operating services. I look forward to learning and trying exciting activities in this course.
