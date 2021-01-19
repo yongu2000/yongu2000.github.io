@@ -5,7 +5,7 @@ image: images/calculator_pic.png
 title: Simple calculator
 permalink: projects/calculator
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-04
+date: 2020-01-04
 labels:
   - Python
   - GUI
