@@ -27,10 +27,10 @@ I planned to make several attack patterns that occurs randomly. After I made tha
 It is the first project I have done since I learned to code, so there is a lot of flaws and difficulties. For example, I did not know what a public static is, but I wrote it in front of the variables and end up creating only one object. So, I had to make eight identical classes which does not meet object-oriented programming. The most memorable moment in the project was the work of combining the team members code into one program. It was more difficult to code than expected, and there were a lot of difficulties. But in the end, we felt the sense of achievement that everyone has created a good result together. 
 
 
-Source code: https://github.com/yongu2000/ics111_final
+Source code: <a href="https://github.com/yongu2000/ics111_final"><i class="large github icon"></i></a>
 
-https://youtu.be/xtAaX3_R4KQ
-https://youtu.be/1PNJjIv2vmQ
+[YouTube](https://youtu.be/xtAaX3_R4KQ)
+[YouTube2](https://youtu.be/1PNJjIv2vmQ)
 
 
 
