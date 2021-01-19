@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Boss raid game
+permalink: projects/boss_raid
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-12-08
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Team Project
+  - Game Development
+summary: My team developed a Boss raid video game for ICS111 final project.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,17 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This project is a final project what I made for Intro to Computer Science I class with two other group members. We were assigned to make a video game using “EZ.java”, a program used in the course. (“EZ.java” had some functions as initializing a new window, moving the images, etc) Our group decided to make an RPG-style boss raid game using spritesheets that were available on Google. There was two characters, warrior, and mage and each of them had different attack skills to fight with the boss. My role was to design the boss.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+I planned to make several attack patterns that occurs randomly. After I made that, I also designed the "rage mode" that will appear when boss's hit point falls below 1/4. Rage mode makes the boss to fall meteorites that cause damage in the sky will drop randomly, and the boss’s attack power and speed increases.
 
-Here is some code that illustrates how we read values from the line sensors:
+It is the first project I have done since I learned to code, so there is a lot of flaws and difficulties. For example, I did not know what a public static is, but I wrote it in front of the variables and end up creating only one object. So, I had to make eight identical classes which does not meet object-oriented programming. The most memorable moment in the project was the work of combining the team members code into one program. It was more difficult to code than expected, and there were a lot of difficulties. But in the end, we felt the sense of achievement that everyone has created a good result together. 
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
+
+https://youtu.be/xtAaX3_R4KQ
+https://youtu.be/1PNJjIv2vmQ
 
 
 
