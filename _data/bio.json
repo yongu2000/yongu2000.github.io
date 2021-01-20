@@ -76,59 +76,19 @@
       ]
     }
   ],
-  "work": [
+   "activities": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    }
+      "title": "Member, ACManoa",
+      "date": "2019 - Present",
+      "summary": "Member of ACM at University of Hawaii at Manoa"
+    } 
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "University of Hawaii at Manoa Dean's List",
+      "date": "2019 - Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded Fall 2019, Spring 2020, Fall 2020"
     } 
   ],
   "references": [
