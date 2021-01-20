@@ -78,15 +78,21 @@
   ],
    "activities": [
     {
-      "title": "Member, ACManoa",
-      "date": "2019 - Present",
-      "summary": "Member of ACM at University of Hawaii at Manoa"
-    } 
-  ],
+      "organization": "ACManoa",
+      "website": "",
+      "position": "Member",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Member of ACM at University of Hawaii at Manoa",
+      "highlights": [
+        
+      ]
+    }
+   ],
   "awards": [
     {
       "title": "University of Hawaii at Manoa Dean's List",
-      "date": "2019 - Present",
+      "date": "",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Awarded Fall 2019, Spring 2020, Fall 2020"
     } 
