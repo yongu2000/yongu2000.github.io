@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/charaselect.png
+image: images/charaselect_m.png
 title: Boss raid game
 permalink: projects/boss_raid
 # All dates must be YYYY-MM-DD format!
