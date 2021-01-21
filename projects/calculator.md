@@ -12,8 +12,8 @@ labels:
 summary: A simple calculator using Tkinter Python.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/calculator_pic.png">
+<div class="">
+  <img src="../images/calculator_pic.png">
 </div>
 
 This is a simple calculator I made at the end of the first semester to study Python during the winter break. Before this project, I thought that only separate programs such as “EZ.java” could display the GUI, but I realized that Python used “Tkinter” and Java also had “Apt” or “Swing” to display it.
