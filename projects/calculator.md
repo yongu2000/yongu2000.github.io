@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/calculator_pic.png
+image: images/calculator.png
 title: Simple calculator
 permalink: projects/calculator
 # All dates must be YYYY-MM-DD format!
