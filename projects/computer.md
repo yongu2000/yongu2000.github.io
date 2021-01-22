@@ -21,3 +21,5 @@ First step was to watch hours of PC building tutorials and image training. Once 
 Building in the middle of a pandemic was hard people wanting to have a machine for themselves. With limited resources and labor, the prices of components increased. And, with the release of a new generation of components, namely Ryzen 5000 series CPUs, Radeon RX 6000 series GPUs, and RTX 3000 series GPUs, and seeing the increase of price to performance compared to the last generation, the demand for components increased as well. I got very lucky getting an RTX 3060 Ti at 5 am, spamming the "Add to cart button" and praying at the same time. 
 
 Building a pc is fun. 
+
+<img class="ui medium right floated rounded image" src="../images/ga.jpg">
