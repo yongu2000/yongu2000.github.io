@@ -7,10 +7,8 @@ permalink: projects/Robotics
 # All dates must be YYYY-MM-DD format!
 date: 2011-8-19
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Robotics
+  - Pollution
 summary: Experience with programming lego robots and solving world problems.
 ---
 
