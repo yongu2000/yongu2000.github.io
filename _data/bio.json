@@ -31,10 +31,7 @@
   "interests": [
     {
       "name": "Video Games",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "keywords": 
     },
     {
       "name": "Software Development",
