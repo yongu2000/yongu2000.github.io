@@ -76,7 +76,7 @@
       ]
     }
   ],
-    "activities": [
+    "volunteer": [
     {
       "organization": "ACManoa",
       "website": "acm.hawaii.edu",
@@ -94,7 +94,7 @@
       "title": "University of Hawaii at Manoa Dean's List",
       "date": "",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Awarded Fall 2019, Spring 2020, Fall 2020"
+      "summary": "Awarded Spring 2020, Fall 2020"
     } 
   ],
   "references": [
