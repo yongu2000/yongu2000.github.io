@@ -12,6 +12,6 @@ labels:
 summary: A PC that I built with my own hands.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
 
