@@ -8,5 +8,5 @@ labels:
   - Software Development
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+
 
