@@ -11,6 +11,6 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Experience with programming lego robots and solving world problems.
 ---
 
