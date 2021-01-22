@@ -1,13 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Good Answers
+title: Hopes in Software Development
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2021-01-21
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Software Development
 ---
 
 <img class="ui medium left floated image" src="../images/rtfm.png">
