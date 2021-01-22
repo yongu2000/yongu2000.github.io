@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/PC.jpg
 title: Personal Computer
 permalink: projects/Personal Computer
 # All dates must be YYYY-MM-DD format!
@@ -12,6 +12,6 @@ labels:
 summary: A PC that I built with my own hands.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/PC.jpg">
 
 
