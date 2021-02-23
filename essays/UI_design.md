@@ -12,6 +12,7 @@ labels:
 ---
 
 <img class="ui fluid image" src="../images/semantic_ui.png">
+<img class="ui fluid image" src="../images/html_css.png">
 
 The UI is the first thing to be seen to the users, despite it is an application, a web page, or a game. When we meet people, the first impression remains the longest in memory, and most of the perception is determined. UI is the first impression of the product. Therefore, it is critical to have a positive first impression, so the best way to make people approach my products is to decorate the UI nicely.
 
