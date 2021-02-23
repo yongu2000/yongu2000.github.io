@@ -8,9 +8,7 @@ labels:
   - Coding Standard
   - ESLint
 ---
-<div style="width: 600px; height: auto;">
-<img src="../images/code_style.jpeg">
-</div>
+<img class="ui fluid image" src="../images/code_style.jpeg">
 Back in the day when I was in class “intro to computer science II” the assignment score was deducted if the coding standard assigned by the professor was not met in the homework. One small whitespace, explanation of functions, indentation, etc. What I thought at first was, “it is only a style of coding, is not the points getting deducted is too much?”. However, there must be a reason for being strict and making the students get aware of it. Professor would not deduct points for trivial things, the concept of coding standard must be significant.
 
 The coding standards are useful and important. There is a single person-made project in which only the conductor of that program will see the code. However, in a group project, we have to code clearly so that all the members can understand the code. The project should not be delayed due to the coding style. Besides, even if it is a single person project, it is necessary to keep the code with coding standards. It might be confusing even for the one who wrote that code. The problem is worse when the code is passed to another person later on. 
