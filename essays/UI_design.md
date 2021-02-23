@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: UI is a first impression
 # All dates must be YYYY-MM-DD format!
-date: 2021-02-11
+date: 2021-02-23
 labels:
   - UI
   - Semantic-UI
