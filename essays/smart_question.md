@@ -10,7 +10,7 @@ labels:
   - Question
 ---
 
-<img src="../images/question.png">
+<img class="ui fluid image" src="../images/question.png">
 
 While programming, there will be moments when you encounter various problems and need help. It is natural to have a problem while doing various works. For example, a question about the syntax of a language, the algorithm you are trying to implement, and the memory allocation. When we face an unknown problem, we look for relevant information or ask someone else for help. The best way to ask for help is to ask questions. There must be plenty of people who had the same problem as me, and there must be plenty of people who know the answer as well.
  
