@@ -9,7 +9,6 @@ labels:
 ---
 
 By:
-
 Ana Catarina Araujo
 
 Chin Ting Liao
@@ -21,6 +20,15 @@ YongU Cho
 ## Overview 
 
 ## Mockup page ideas
+
+- Landing page
+- User home page
+- Admin home page
+- User Profile page
+- Selecting Course page
+- Course page
+- Add Post page
+- Notify admin page
 
 ## Use case ideas
 
