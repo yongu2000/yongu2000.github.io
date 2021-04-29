@@ -10,7 +10,7 @@ labels:
 ---
 <div class="ui container">
   <div class="column">
-    <img class="ui fluid image" src="../images/design_pattern.png">
+    <img class="ui fluid centered image" src="../images/design_pattern.png">
   </div> 
 </div>
 
