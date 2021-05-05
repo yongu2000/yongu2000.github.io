@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/charaselect_m.png
+image: images/uhm-gitclubs-logo-final.jpg
 title: UHM gitclub
 permalink: projects/gitclub
 # All dates must be YYYY-MM-DD format!
