@@ -15,19 +15,19 @@ summary: My team developed a website application for ICS314 final project.
 ---
 
 ### Landing Page
-<div class="ui small rounded images">
+<div class="ui rounded images">
 <img class="ui image" src="../images/landingnew.gif" alt="landing-page">
 </div>
 ### Browse Clubs
-<div class="ui small rounded images">
+<div class="ui rounded images">
 <img class="ui image" src="../images/browse0.gif" alt="browse0-page">
 </div>
 ### My Clubs
-<div class="ui small rounded images">
+<div class="ui rounded images">
 <img class="ui image" src="../images/myclubs.gif" alt="myclubs-page">
 </div>
 ### Manage Clubs
-<div class="ui small rounded images">
+<div class="ui rounded images">
 <img class="ui image" src="../images/manageallclubs.png" alt="manageallclubs-page">
 </div>
 
