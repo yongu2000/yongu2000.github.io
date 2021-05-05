@@ -13,7 +13,7 @@ labels:
   - Team Project
 summary: My team developed a website application for ICS314 final project.
 ---
-
+<div class="ui container">
 ### Landing Page
 <img src="../images/landingnew.gif" alt="landing-page">
 
@@ -25,6 +25,7 @@ summary: My team developed a website application for ICS314 final project.
 
 ### Manage Clubs
 <img src="../images/manageallclubs.png" alt="manageallclubs-page">
+</div>
 
 This project is a final project what I made for Intro to Computer Science I class with two other group members. We were assigned to make a video game using “EZ.java”, a program used in the course. (“EZ.java” had some functions as initializing a new window, moving the images, etc) Our group decided to make an RPG-style boss raid game using spritesheets that were available on Google. There was two characters, warrior, and mage and each of them had different attack skills to fight with the boss. My role was to design the boss.
 
