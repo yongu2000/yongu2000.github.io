@@ -52,7 +52,9 @@
         "C",
         "C++",
         "Java",
-        "Python"
+        "Python",
+        "Javascript",
+        "React"
       ]
     },
     {
@@ -60,6 +62,7 @@
       "level": "",
       "keywords": [
         "Windows10",
+        "intelliJ",
         "Git/GitHub"
       ]
     }
