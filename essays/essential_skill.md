@@ -11,11 +11,11 @@ labels:
 ---
 <div class="ui two column grid container">
   <div class="column">
-    <img class="ui fluid image" src="../images/semantic_ui.png">
+    <img class="ui fluid image" src="../images/underscore.png">
   </div>
   
   <div class="column">
-    <img class="ui fluid image" src="../images/html_css.png">
+    <img class="ui fluid image" src="../images/agile.png">
   </div>
   
 </div>
