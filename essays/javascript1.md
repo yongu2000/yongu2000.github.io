@@ -10,7 +10,8 @@ labels:
   - ICS314
 ---
 
-<img src="../images/javascript.jpg">
+<img class="ui fluid image" src="../images/javascript.jpg">
+
 
 There was not much difficulty in learning JavaScript at first. It was able to adapt quickly because there were similarities and overlapping concepts from my background of learned programming languages. The syntax of the overall language is similar to C or Java, but slightly different. For example, there is no type declaration in JavaScript! It was surprising that the size of the array is not specified, and it can be allocated flexibly. Also, there is no syntax error when the elements of the array are different for every index. It seemed convenient, but I felt if I do not concentrate while I code, I might get confused later. Javascript is also an object-oriented language and is supported by a variety of operating systems and web browsers. So, I think it is a language suitable for software engineering.
 
